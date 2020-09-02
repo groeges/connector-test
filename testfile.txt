@@ -2,4 +2,3 @@ This is a new file
 2nd line of file
 Another line
 yet another line
-and another line
