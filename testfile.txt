@@ -3,4 +3,3 @@ This is a new file
 Another line
 yet another line
 and another line
-plus one more
